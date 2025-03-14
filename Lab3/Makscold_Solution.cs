@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    internal class Makscold_Solution
+    public static class MakscoldSolution
     {
+        public static void Foo(int[][] stack)
+        {
+            Console.WriteLine("Makscold Solution");
+            foreach (var arr in stack)
+            {
+                Console.WriteLine(String.Join(' ', arr));
+            }
+        }
     }
 }
