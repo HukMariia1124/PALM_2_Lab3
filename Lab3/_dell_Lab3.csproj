@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Jenlast_Solution.cs" />
+    <Compile Include="Jenlast_Solution__del.cs" />
     <Compile Include="Makscold_Solution.cs" />
     <Compile Include="Mariia_Solution.cs" />
     <Compile Include="Program.cs" />

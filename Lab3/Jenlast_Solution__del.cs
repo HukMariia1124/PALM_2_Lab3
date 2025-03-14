@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    internal class Jenlast_Solution
+    internal class Jenlast_Solution__del
     {
     }
 }
