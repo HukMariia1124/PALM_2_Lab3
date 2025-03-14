@@ -10,6 +10,7 @@ namespace Lab3
     {
         static void Main()
         {
+            Console.WriteLine("It's main.");
         }
     }
 }
