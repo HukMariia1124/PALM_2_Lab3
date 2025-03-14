@@ -71,6 +71,7 @@ namespace Lab3
                 //                  "Other) Ні");
 
 
+
             } while (true);
 
         }
